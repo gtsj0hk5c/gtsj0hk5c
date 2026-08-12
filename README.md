@@ -1,19 +1,20 @@
 # Hi, I'm Kai Moreau
-Mobile developer crafting native and cross-platform experiences with SwiftUI and Flutter.
+Mobile developer crafting native experiences with SwiftUI and Flutter.
 
 ## About me
-- Based in São Paulo, Brazil, building iOS and cross-platform apps for real-world users.
-- I enjoy turning clean UI designs into smooth, performant mobile interfaces.
-- Always exploring new patterns in SwiftUI and Flutter to write simpler, more maintainable code.
+- Based in São Paulo, Brazil, building apps for iOS and cross-platform.
+- Focused on clean UI, smooth animations, and pragmatic architecture.
+- Passionate about exploring new frameworks and improving app performance.
+- Currently diving deeper into Flutter's ecosystem for multi-platform delivery.
 
 ## Tech stack
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 
 ## What I'm currently working on
-- Refining a SwiftUI habit-tracking app with widgets and Core Data.
-- Experimenting with Flutter's declarative UI for a small side project.
+- Building a SwiftUI fitness tracker with HealthKit integration.
+- Experimenting with Flutter's declarative UI for a side project.
 
 ## GitHub stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gtsj0hk5c&show_icons=true&hide_border=true)
 
-Thanks for stopping by — always happy to chat about mobile dev.
+_Code is poetry in motion — keep shipping._
